@@ -1,12 +1,5 @@
-**Установка node и npm**
+Task:
 
-Перед запуском проекта необходимо установить node и npm (например, отсюда <https://nodejs.org/en/>). 
+Realise the layout based on the Figma design
 
-**Запуск проекта**
-
-Для запуска проекта в папке проекта запускаем:
-`npm start`
-
-Проект откроется на локалхосте на 3000 порту.
-
-Все изменения автоматически будут отображаться на странице без ее перезагрузки, т.к. в дев-среде работает livereload. 
+https://www.figma.com/file/BKfflMHQK6OqU9hurTq2Oocq/Idea?node-id=77%3A0
